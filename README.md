@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 
 ## 🔍 About Me
-
 A **Data Scientist** with 3+ years of experience across **predictive modeling**, **ETL automation**, and **AI-driven analytics**. I specialize in solving business problems using **Python**, **SQL**, and **cloud platforms** like **BigQuery**, **AWS**, and **Azure**.
 
 I previously worked as a **Software Engineer at Philips**, and most recently led advanced analytics projects during my capstone with **CGI**, building **forecasting models**, **dashboard solutions**, and conducting **text analysis** for production systems.
@@ -29,7 +28,6 @@ I previously worked as a **Software Engineer at Philips**, and most recently led
 
 
 ## 🧠 What I’m Doing Now
-
 - 🛠 Building and sharing GenAI projects focused on **multimodal analytics** and **marketing optimization**  
 - 📈 Exploring **real-time inference systems**, **entity resolution**, and **AI-based forecasting pipelines**  
 - 🤝 Open to collaboration on **ML**, **NLP**, or **data platform engineering** initiatives  
@@ -37,7 +35,6 @@ I previously worked as a **Software Engineer at Philips**, and most recently led
 
 
 ## 🔧 Featured Projects
-
 - 📹 **YouTube Intelligence Tool** – LLM-powered summarization and sentiment analysis for video content  
 - 📊 **Retail Analytics Dashboard** – Automated **ETL** + **KPI dashboards** for order and churn visibility  
 - 🤖 **Credit Default Prediction** – **XGBoost** model with 87% accuracy on financial risk data  
