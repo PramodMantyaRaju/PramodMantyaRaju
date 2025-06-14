@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I'm Pramod Raju
+
+🔍 A Data Scientist passionate about ML, NLP, Forecasting, and Product Experimentation.  
+🚀 Always exploring new tools like **BigQuery**, **XGBoost**, **Hugging Face**, and **GCP**.  
+🎯 Seeking opportunities to solve real-world problems with **ML** and **data-driven decision-making**.  
+
+📫 Reach me at: [pramodrspd@gmail.com](mailto:pramodrspd@gmail.com)  
+🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [Kaggle](https://www.kaggle.com/your-profile) | [Twitter](https://twitter.com/your-profile)
