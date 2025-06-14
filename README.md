@@ -21,12 +21,7 @@ You can also [mail me](mailto:pramodrspd@gmail.com) regarding any opportunity or
 ---
 
 ## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodmantyaraju)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/PramodMantyaRaju)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/)  
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=dev.to&logoColor=white)](https://dev.to/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-mantya-raju/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/PramodMantyaRaju)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pramodrspd)
 
