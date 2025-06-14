@@ -1,51 +1,32 @@
-<!--
-**PramodMantyaRaju/PramodMantyaRaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# A Data Scientist passionate about Machine Learning, NLP, forecasting, and AI-driven analytics. I love to learn, build, and contribute in every meaningful way.
 
-Here are some ideas to get you started:
+Please go through my profile and feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.  
+You can also [mail me](mailto:pramodrspd@gmail.com) regarding any opportunity or question.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hello World, I'm Pramod Mantya Raju!
+![Profile Views](https://komarev.com/ghpvc/?username=PramodMantyaRaju&color=blue)
 
-🎓 **MS Business Analytics Graduate, San Francisco State University**  
-🧠 Former **Software Engineer**, now driving impact through **Data Science**, **Machine Learning**, and **AI**  
-📬 [pramodrspd@gmail.com](mailto:pramodrspd@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/your-link) | 🌐 [Portfolio](https://your-portfolio-link.com)
+---
 
+## Hello world!
 
-## 🔍 About Me
-A **Data Scientist** with 3+ years of experience across **predictive modeling**, **ETL automation**, and **AI-driven analytics**. I specialize in solving business problems using **Python**, **SQL**, and **cloud platforms** like **BigQuery**, **AWS**, and **Azure**.
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" width="400px" align="right">
 
-I previously worked as a **Software Engineer at Philips**, and most recently led advanced analytics projects during my capstone with **CGI**, building **forecasting models**, **dashboard solutions**, and conducting **text analysis** for production systems.
+🌱 I’m currently exploring **real-time inference systems**, **entity resolution**, and **multimodal GenAI** applications.  
+🤝 Open to collaborating on **Data Science**, **Machine Learning**, and **Cloud-based analytics** projects.  
+💬 Feel free to reach out about **forecasting**, **pipelines**, **LLMs**, or building scalable ML systems.  
+⚡ **Fun facts:**
+- I transitioned from Software Engineering into Data Science to make real business impact with AI.
+- I enjoy public speaking and deep-diving into business strategy and data architecture.
 
-> I believe in bridging engineering precision with analytical insight to deliver measurable business outcomes.
+---
 
+## 🔗 Connect with me
 
-## 🧠 What I’m Doing Now
-- 🛠 Building and sharing GenAI projects focused on **multimodal analytics** and **marketing optimization**  
-- 📈 Exploring **real-time inference systems**, **entity resolution**, and **AI-based forecasting pipelines**  
-- 🤝 Open to collaboration on **ML**, **NLP**, or **data platform engineering** initiatives  
-- 📚 Outside of tech, I’m passionate about storytelling, public speaking, and business history
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodmantyaraju)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/PramodMantyaRaju)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/)  
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=dev.to&logoColor=white)](https://dev.to/)
 
-
-## 🔧 Featured Projects
-- 📹 **YouTube Intelligence Tool** – LLM-powered summarization and sentiment analysis for video content  
-- 📊 **Retail Analytics Dashboard** – Automated **ETL** + **KPI dashboards** for order and churn visibility  
-- 🤖 **Credit Default Prediction** – **XGBoost** model with 87% accuracy on financial risk data  
-- 💬 **Survey Sentiment NLP** – Text classification pipeline for analyzing customer feedback  
-- 🔍 **Google Analytics Research** – GA4 + BigQuery + Tag Manager pipeline for behavioral tracking
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-mantya-raju/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/PramodMantyaRaju)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pramodrspd)
-
-
-> ⚡ _"Real impact starts where data meets decisions."_
