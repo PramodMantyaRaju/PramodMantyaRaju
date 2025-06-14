@@ -15,7 +15,7 @@ You can also [mail me](mailto:pramodrspd@gmail.com) regarding any opportunity or
 🤝 Open to collaborating on **Data Science**, **Machine Learning**, and **Cloud-based analytics** projects.  
 💬 Feel free to reach out about **forecasting**, **pipelines**, **LLMs**, or building scalable ML systems.  
 
-⚡ **About me outside of work:**
+⚡ **Fun Facts outside of my work:**
 - I transitioned from Software Engineering into Data Science to make real business impact with AI.
 - I enjoy public speaking and deep-diving into business strategy and data architecture.
 
