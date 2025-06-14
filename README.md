@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 🧠 Former **Software Engineer**, now driving impact through **Data Science**, **Machine Learning**, and **AI**  
 📬 [pramodrspd@gmail.com](mailto:pramodrspd@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/your-link) | 🌐 [Portfolio](https://your-portfolio-link.com)
 
----
 
 ## 🔍 About Me
 
@@ -30,7 +29,6 @@ I previously worked as a **Software Engineer at Philips**, and most recently led
 
 > I believe in bridging engineering precision with analytical insight to deliver measurable business outcomes.
 
----
 
 ## 🧠 What I’m Doing Now
 
@@ -39,7 +37,6 @@ I previously worked as a **Software Engineer at Philips**, and most recently led
 - 🤝 Open to collaboration on **ML**, **NLP**, or **data platform engineering** initiatives  
 - 📚 Outside of tech, I’m passionate about storytelling, public speaking, and business history
 
----
 
 ## 🔧 Featured Projects
 
@@ -48,8 +45,6 @@ I previously worked as a **Software Engineer at Philips**, and most recently led
 - 🤖 **Credit Default Prediction** – **XGBoost** model with 87% accuracy on financial risk data  
 - 💬 **Survey Sentiment NLP** – Text classification pipeline for analyzing customer feedback  
 - 🔍 **Google Analytics Research** – GA4 + BigQuery + Tag Manager pipeline for behavioral tracking
-
----
 
 ## 🌐 Connect With Me
 
