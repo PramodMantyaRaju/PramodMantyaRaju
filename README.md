@@ -14,7 +14,8 @@ You can also [mail me](mailto:pramodrspd@gmail.com) regarding any opportunity or
 🌱 I’m currently exploring **real-time inference systems**, **entity resolution**, and **multimodal GenAI** applications.  
 🤝 Open to collaborating on **Data Science**, **Machine Learning**, and **Cloud-based analytics** projects.  
 💬 Feel free to reach out about **forecasting**, **pipelines**, **LLMs**, or building scalable ML systems.  
-⚡ **Fun facts:**
+
+⚡ **About me outside of work:**
 - I transitioned from Software Engineering into Data Science to make real business impact with AI.
 - I enjoy public speaking and deep-diving into business strategy and data architecture.
 
