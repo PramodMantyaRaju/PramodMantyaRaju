@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **PramodMantyaRaju/PramodMantyaRaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,6 +50,5 @@ I previously worked as a **Software Engineer at Philips**, and most recently led
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/PramodMantyaRaju)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pramodrspd)
 
----
 
 > ⚡ _"Real impact starts where data meets decisions."_
